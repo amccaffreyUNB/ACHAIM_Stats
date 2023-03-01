@@ -5,6 +5,9 @@
 ### the initial set up you won't need to come back to this file often.
 ###########################################################
 
+#A-CHAIM Specific
+BASE_PATH : /ACHAIM_Stats
+
 ############################
 # --- Required options --- #
 ############################
