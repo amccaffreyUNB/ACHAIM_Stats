@@ -1,4 +1,5 @@
 #!/bin/bash
+#script to push changes to github (pages)
 
 cd /home2/achaim1/ACHAIM_Stats
 
