@@ -1,7 +1,9 @@
 #!/bin/bash
 #script to push changes to github (pages)
 
-cd /home2/achaim1/ACHAIM_Stats
+source ~/.A-CHAIM.conf
+
+cd $ROOTDIR/ACHAIM_Stats
 
 git pull
 git add -A
